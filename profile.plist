@@ -6,7 +6,7 @@
 	<string>Xcode iOS Wildcard App ID</string>
 	<key>ApplicationIdentifierPrefix</key>
 	<array>
-	<string>6E5RVX7ELK</string>
+	<string>L4FET847JL</string>
 	</array>
 	<key>CreationDate</key>
 	<date>2015-03-25T21:10:12Z</date>
@@ -18,14 +18,14 @@
 	<dict>
 		<key>keychain-access-groups</key>
 		<array>
-			<string>6E5RVX7ELK.*</string>
+			<string>L4FET847JL.*</string>
 		</array>
 		<key>get-task-allow</key>
 		<false/>
 		<key>application-identifier</key>
-		<string>6E5RVX7ELK.*</string>
+		<string>L4FET847JL.*</string>
 		<key>com.apple.developer.team-identifier</key>
-		<string>6E5RVX7ELK</string>
+		<string>L4FET847JL</string>
 		<key>beta-reports-active</key>
 		<true/>
 
@@ -36,7 +36,7 @@
 	<string>XC: *</string>
 	<key>TeamIdentifier</key>
 	<array>
-		<string>6E5RVX7ELK</string>
+		<string>L4FET847JL</string>
 	</array>
 	<key>TeamName</key>
 	<string>Eugen Pirogoff</string>
